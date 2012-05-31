@@ -1,0 +1,12 @@
+April - May:
+Get to known each other, give some suggestions to work with s3 alternatives during development.
+Bit of a slow start (student had more work rounding things up with his previous part-time - this should now be done).
+
+May 31:
+Student decided not to waste more time trying to get s3 alternatives to work.
+Created s3 account.
+Will work hard on Whirr over the weekend (june 1st - june 4th).
+Expecting report june 4th.
+Asked start a whirr fork on github and start a branch WHIRR-286-gsoc.
+
+
